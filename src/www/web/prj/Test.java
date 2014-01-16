@@ -1,0 +1,1 @@
+package www.web.prj;public class Test {		public static void main(String[]args){		System.out.println("-_-");	}}
