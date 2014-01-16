@@ -1,10 +1,10 @@
 자기소개서
 -----------------------
-이름 : 
+이름 : 조남권
 
-팀 : 
+팀 : 정산MNG
 
-Github ID : 
+Github ID : jonamwkon
 
-E-mail : 
+E-mail : jonamkwon@wemakeprice.com
 
